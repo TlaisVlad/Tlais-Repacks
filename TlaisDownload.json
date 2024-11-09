@@ -6,6 +6,12 @@
       "uris": ["magnet:?xt=urn:btih:351DC93FE38606BE1B491947AC1A23173CE7DFAC&dn=Cult%20of%20the%20Lamb&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online"],
       "uploadDate": "2024-11-09T23:16:30.000Z",
       "fileSize": "2.65 GB"
+    },
+      {
+      "title": "[Test Drive Unlimited Gold (1)]",
+      "uris": ["magnet:?xt=urn:btih:C584D18078696F3E6D40B4A3AD84FBB0F506998B&dn=Test%20Drive%20Unlimited%20Gold&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online"],
+      "uploadDate": "2024-11-09T23:16:30.000Z",
+      "fileSize": "7.22 GB"
     }
   ]
 }
