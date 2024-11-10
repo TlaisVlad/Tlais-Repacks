@@ -1,5 +1,5 @@
 {
-  "name": "Tlais Repacks ",
+  "name": "Tlais Repacks",
   "downloads": [
     {
       "title": "[Cult Of The Lamb]",
@@ -12,6 +12,12 @@
       "uris": ["magnet:?xt=urn:btih:C584D18078696F3E6D40B4A3AD84FBB0F506998B&dn=Test%20Drive%20Unlimited%20Gold&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online"],
       "uploadDate": "2024-11-09T23:16:30.000Z",
       "fileSize": "7.22 GB"
+    },
+    {
+      "title": "[CATO]",
+      "uris": ["magnet:?xt=urn:btih:E8DD3163D39ED2F140BBF7D4E62D410A805E5D6A&dn=CATO%20Buttered%20Cat&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online"],
+      "uploadDate": "2024-11-10T23:16:30.000Z",
+      "fileSize": "806 MB"
     }
   ]
 }
